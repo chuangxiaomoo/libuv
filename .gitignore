@@ -1,3 +1,5 @@
+.session.vim
+.cscope.*
 *.swp
 *.[oa]
 *.l[oa]
